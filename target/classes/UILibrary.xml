@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Pages>
+    <Page keyword="登陆页">
+
+        <UIElement by="name" value="acct" keyword="账号"></UIElement>
+        <UIElement by="name" value="password" keyword="密码"></UIElement>
+    </Page>
+</Pages>

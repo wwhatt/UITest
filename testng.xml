@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="login" parallel="tests" >
+    <parameter name="browserType" value="chrome"></parameter>
+    <!--定义驱动文件相对路径-->
+
+    <parameter name="driverPath" value="D:\workspace\IDEA\UiTest\src\main\resources\chromedriver.exe"></parameter>
+    <parameter name="url" value="http://124.70.67.125:10028/login"></parameter>
+
+    <test name="login">
+        <classes>
+            <class name="cases.LoginTest">
+            </class>
+            <parameter name="url" value="http://124.70.67.125:10028/login"></parameter>
+<!--            <parameter name="browser" value="chrome"></parameter>-->
+
+        </classes>
+    </test>
+
+    <listeners>
+        <listener class-name="extentx.ExtentTestNGITestListener"></listener>
+    </listeners>
+</suite>

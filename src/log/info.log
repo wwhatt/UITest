@@ -1,0 +1,93 @@
+2023-02-11 09:32:32  [ TestNG-tests-1:0 ] - [ INFO ]  打开浏览器http://124.70.67.125:10028/login
+2023-02-11 09:33:21  [ TestNG-tests-1:0 ] - [ INFO ]  打开浏览器http://124.70.67.125:10028/login
+2023-02-11 09:33:28  [ TestNG-tests-1:0 ] - [ INFO ]  打开浏览器http://124.70.67.125:10028/login
+2023-02-11 15:50:31  [ TestNG-tests-1:0 ] - [ INFO ]  打开浏览器http://124.70.67.125:10028/login
+2023-02-11 15:51:35  [ TestNG-tests-1:0 ] - [ INFO ]  打开浏览器http://124.70.67.125:10028/login
+2023-02-11 15:53:11  [ TestNG-tests-1:0 ] - [ INFO ]  打开浏览器http://124.70.67.125:10028/login
+2023-02-11 15:53:23  [ TestNG-tests-1:0 ] - [ INFO ]  打开浏览器http://124.70.67.125:10028/login
+2023-02-11 15:59:45  [ TestNG-tests-1:0 ] - [ INFO ]  打开浏览器http://124.70.67.125:10028/login
+2023-02-11 15:59:57  [ TestNG-tests-1:0 ] - [ INFO ]  打开浏览器http://124.70.67.125:10028/login
+2023-02-11 16:05:18  [ TestNG-tests-1:0 ] - [ INFO ]  打开浏览器http://124.70.67.125:10028/login
+2023-02-11 16:05:30  [ TestNG-tests-1:0 ] - [ INFO ]  打开浏览器http://124.70.67.125:10028/login
+2023-02-11 16:07:39  [ TestNG-tests-1:0 ] - [ INFO ]  打开浏览器http://124.70.67.125:10028/login
+2023-02-11 16:07:53  [ TestNG-tests-1:0 ] - [ INFO ]  打开浏览器http://124.70.67.125:10028/login
+2023-02-11 16:16:37  [ TestNG-tests-1:0 ] - [ INFO ]  打开浏览器http://124.70.67.125:10028/login
+2023-02-11 16:16:52  [ TestNG-tests-1:0 ] - [ INFO ]  打开浏览器http://124.70.67.125:10028/login
+2023-02-11 16:17:37  [ TestNG-tests-1:0 ] - [ INFO ]  打开浏览器http://124.70.67.125:10028/login
+2023-02-11 16:18:46  [ TestNG-tests-1:0 ] - [ INFO ]  打开浏览器http://124.70.67.125:10028/login
+2023-02-11 16:19:08  [ TestNG-tests-1:0 ] - [ INFO ]  打开浏览器http://124.70.67.125:10028/login
+2023-02-11 16:20:37  [ TestNG-tests-1:0 ] - [ INFO ]  打开浏览器http://124.70.67.125:10028/login
+2023-02-11 16:20:50  [ TestNG-tests-1:0 ] - [ INFO ]  打开浏览器http://124.70.67.125:10028/login
+2023-02-11 16:21:48  [ TestNG-tests-1:0 ] - [ INFO ]  打开浏览器http://124.70.67.125:10028/login
+2023-02-11 16:22:01  [ TestNG-tests-1:0 ] - [ INFO ]  打开浏览器http://124.70.67.125:10028/login
+2023-02-11 16:28:40  [ TestNG-tests-1:0 ] - [ INFO ]  打开浏览器http://124.70.67.125:10028/login
+2023-02-11 16:28:55  [ TestNG-tests-1:0 ] - [ INFO ]  打开浏览器http://124.70.67.125:10028/login
+2023-02-11 16:31:43  [ TestNG-tests-1:0 ] - [ INFO ]  打开浏览器http://124.70.67.125:10028/login
+2023-02-11 16:31:57  [ TestNG-tests-1:0 ] - [ INFO ]  打开浏览器http://124.70.67.125:10028/login
+2023-02-11 16:34:44  [ TestNG-tests-1:1 ] - [ INFO ]  打开浏览器http://124.70.67.125:10028/login
+2023-02-11 16:35:00  [ TestNG-tests-1:0 ] - [ INFO ]  打开浏览器http://124.70.67.125:10028/login
+2023-02-11 16:43:47  [ TestNG-tests-1:0 ] - [ INFO ]  打开浏览器http://124.70.67.125:10028/login
+2023-02-11 16:43:59  [ TestNG-tests-1:0 ] - [ INFO ]  打开浏览器http://124.70.67.125:10028/login
+2023-02-11 16:47:30  [ TestNG-tests-1:0 ] - [ INFO ]  打开浏览器http://124.70.67.125:10028/login
+2023-02-11 16:47:42  [ TestNG-tests-1:0 ] - [ INFO ]  打开浏览器http://124.70.67.125:10028/login
+2023-02-11 16:49:53  [ TestNG-tests-1:0 ] - [ INFO ]  打开浏览器http://124.70.67.125:10028/login
+2023-02-11 16:50:11  [ TestNG-tests-1:0 ] - [ INFO ]  打开浏览器http://124.70.67.125:10028/login
+2023-02-11 16:52:34  [ TestNG-tests-1:0 ] - [ INFO ]  打开浏览器http://124.70.67.125:10028/login
+2023-02-11 16:52:46  [ TestNG-tests-1:0 ] - [ INFO ]  打开浏览器http://124.70.67.125:10028/login
+2023-02-11 17:03:28  [ TestNG-tests-1:0 ] - [ INFO ]  打开浏览器http://124.70.67.125:10028/login
+2023-02-11 17:03:31  [ TestNG-tests-1:2340 ] - [ INFO ]  根据{by:name,value:acct}来定位【登陆页】页面的【账号】元素
+2023-02-11 17:03:31  [ TestNG-tests-1:2360 ] - [ INFO ]  元素定位成功
+2023-02-11 17:03:31  [ TestNG-tests-1:2361 ] - [ INFO ]  向【[[ChromeDriver: chrome on WINDOWS (f5f19efaf059510e5eef745e11a5d406)] -> name: acct]】中写入数据：【changlinhui】
+2023-02-11 17:03:31  [ TestNG-tests-1:2429 ] - [ INFO ]  根据{by:name,value:password}来定位【登陆页】页面的【密码】元素
+2023-02-11 17:03:31  [ TestNG-tests-1:2439 ] - [ INFO ]  元素定位成功
+2023-02-11 17:03:31  [ TestNG-tests-1:2439 ] - [ INFO ]  向【[[ChromeDriver: chrome on WINDOWS (f5f19efaf059510e5eef745e11a5d406)] -> name: password]】中写入数据：【1234.Com】
+2023-02-11 17:03:33  [ TestNG-tests-1:4525 ] - [ INFO ]  根据{by:name,value:acct}来定位【登陆页】页面的【账号】元素
+2023-02-11 17:03:33  [ TestNG-tests-1:4531 ] - [ INFO ]  元素定位成功
+2023-02-11 17:03:33  [ TestNG-tests-1:4531 ] - [ INFO ]  向【[[ChromeDriver: chrome on WINDOWS (f5f19efaf059510e5eef745e11a5d406)] -> name: acct]】中写入数据：【1】
+2023-02-11 17:03:33  [ TestNG-tests-1:4576 ] - [ INFO ]  根据{by:name,value:password}来定位【登陆页】页面的【密码】元素
+2023-02-11 17:03:33  [ TestNG-tests-1:4582 ] - [ INFO ]  元素定位成功
+2023-02-11 17:03:33  [ TestNG-tests-1:4582 ] - [ INFO ]  向【[[ChromeDriver: chrome on WINDOWS (f5f19efaf059510e5eef745e11a5d406)] -> name: password]】中写入数据：【1234.Com】
+2023-02-11 17:03:35  [ TestNG-tests-1:6637 ] - [ INFO ]  根据{by:name,value:acct}来定位【登陆页】页面的【账号】元素
+2023-02-11 17:03:35  [ TestNG-tests-1:6643 ] - [ INFO ]  元素定位成功
+2023-02-11 17:03:35  [ TestNG-tests-1:6643 ] - [ INFO ]  向【[[ChromeDriver: chrome on WINDOWS (f5f19efaf059510e5eef745e11a5d406)] -> name: acct]】中写入数据：【changlinhui】
+2023-02-11 17:03:35  [ TestNG-tests-1:6700 ] - [ INFO ]  根据{by:name,value:password}来定位【登陆页】页面的【密码】元素
+2023-02-11 17:03:35  [ TestNG-tests-1:6706 ] - [ INFO ]  元素定位成功
+2023-02-11 17:03:35  [ TestNG-tests-1:6706 ] - [ INFO ]  向【[[ChromeDriver: chrome on WINDOWS (f5f19efaf059510e5eef745e11a5d406)] -> name: password]】中写入数据：【2】
+2023-02-11 17:03:44  [ TestNG-tests-1:0 ] - [ INFO ]  打开浏览器http://124.70.67.125:10028/login
+2023-02-11 17:03:47  [ TestNG-tests-1:2337 ] - [ INFO ]  根据{by:name,value:acct}来定位【登陆页】页面的【账号】元素
+2023-02-11 17:03:47  [ TestNG-tests-1:2353 ] - [ INFO ]  元素定位成功
+2023-02-11 17:03:47  [ TestNG-tests-1:2353 ] - [ INFO ]  向【[[ChromeDriver: chrome on WINDOWS (b69db0d0f94f60c0a416fe292ea3cc9b)] -> name: acct]】中写入数据：【changlinhui】
+2023-02-11 17:03:47  [ TestNG-tests-1:2418 ] - [ INFO ]  根据{by:name,value:password}来定位【登陆页】页面的【密码】元素
+2023-02-11 17:03:47  [ TestNG-tests-1:2428 ] - [ INFO ]  元素定位成功
+2023-02-11 17:03:47  [ TestNG-tests-1:2428 ] - [ INFO ]  向【[[ChromeDriver: chrome on WINDOWS (b69db0d0f94f60c0a416fe292ea3cc9b)] -> name: password]】中写入数据：【1234.Com】
+2023-02-11 17:03:49  [ TestNG-tests-1:4515 ] - [ INFO ]  根据{by:name,value:acct}来定位【登陆页】页面的【账号】元素
+2023-02-11 17:03:49  [ TestNG-tests-1:4521 ] - [ INFO ]  元素定位成功
+2023-02-11 17:03:49  [ TestNG-tests-1:4521 ] - [ INFO ]  向【[[ChromeDriver: chrome on WINDOWS (b69db0d0f94f60c0a416fe292ea3cc9b)] -> name: acct]】中写入数据：【1】
+2023-02-11 17:03:49  [ TestNG-tests-1:4563 ] - [ INFO ]  根据{by:name,value:password}来定位【登陆页】页面的【密码】元素
+2023-02-11 17:03:49  [ TestNG-tests-1:4569 ] - [ INFO ]  元素定位成功
+2023-02-11 17:03:49  [ TestNG-tests-1:4570 ] - [ INFO ]  向【[[ChromeDriver: chrome on WINDOWS (b69db0d0f94f60c0a416fe292ea3cc9b)] -> name: password]】中写入数据：【1234.Com】
+2023-02-11 17:03:51  [ TestNG-tests-1:6631 ] - [ INFO ]  根据{by:name,value:acct}来定位【登陆页】页面的【账号】元素
+2023-02-11 17:03:51  [ TestNG-tests-1:6636 ] - [ INFO ]  元素定位成功
+2023-02-11 17:03:51  [ TestNG-tests-1:6637 ] - [ INFO ]  向【[[ChromeDriver: chrome on WINDOWS (b69db0d0f94f60c0a416fe292ea3cc9b)] -> name: acct]】中写入数据：【changlinhui】
+2023-02-11 17:03:51  [ TestNG-tests-1:6693 ] - [ INFO ]  根据{by:name,value:password}来定位【登陆页】页面的【密码】元素
+2023-02-11 17:03:51  [ TestNG-tests-1:6699 ] - [ INFO ]  元素定位成功
+2023-02-11 17:03:51  [ TestNG-tests-1:6699 ] - [ INFO ]  向【[[ChromeDriver: chrome on WINDOWS (b69db0d0f94f60c0a416fe292ea3cc9b)] -> name: password]】中写入数据：【2】
+2023-02-11 18:05:41  [ TestNG-tests-1:0 ] - [ INFO ]  打开浏览器http://124.70.67.125:10028/login
+2023-02-11 18:05:43  [ TestNG-tests-1:2395 ] - [ INFO ]  根据{by:name,value:acct}来定位【登陆页】页面的【账号】元素
+2023-02-11 18:05:43  [ TestNG-tests-1:2411 ] - [ INFO ]  元素定位成功
+2023-02-11 18:05:43  [ TestNG-tests-1:2411 ] - [ INFO ]  向【[[ChromeDriver: chrome on WINDOWS (118865c0975f9e0271fdf909fe0a2333)] -> name: acct]】中写入数据：【changlinhui】
+2023-02-11 18:05:44  [ TestNG-tests-1:2483 ] - [ INFO ]  根据{by:name,value:password}来定位【登陆页】页面的【密码】元素
+2023-02-11 18:05:44  [ TestNG-tests-1:2494 ] - [ INFO ]  元素定位成功
+2023-02-11 18:05:44  [ TestNG-tests-1:2494 ] - [ INFO ]  向【[[ChromeDriver: chrome on WINDOWS (118865c0975f9e0271fdf909fe0a2333)] -> name: password]】中写入数据：【1234.Com】
+2023-02-11 18:05:46  [ TestNG-tests-1:4575 ] - [ INFO ]  根据{by:name,value:acct}来定位【登陆页】页面的【账号】元素
+2023-02-11 18:05:46  [ TestNG-tests-1:4584 ] - [ INFO ]  元素定位成功
+2023-02-11 18:05:46  [ TestNG-tests-1:4584 ] - [ INFO ]  向【[[ChromeDriver: chrome on WINDOWS (118865c0975f9e0271fdf909fe0a2333)] -> name: acct]】中写入数据：【1】
+2023-02-11 18:05:46  [ TestNG-tests-1:4629 ] - [ INFO ]  根据{by:name,value:password}来定位【登陆页】页面的【密码】元素
+2023-02-11 18:05:46  [ TestNG-tests-1:4635 ] - [ INFO ]  元素定位成功
+2023-02-11 18:05:46  [ TestNG-tests-1:4636 ] - [ INFO ]  向【[[ChromeDriver: chrome on WINDOWS (118865c0975f9e0271fdf909fe0a2333)] -> name: password]】中写入数据：【1234.Com】
+2023-02-11 18:05:48  [ TestNG-tests-1:6695 ] - [ INFO ]  根据{by:name,value:acct}来定位【登陆页】页面的【账号】元素
+2023-02-11 18:05:48  [ TestNG-tests-1:6700 ] - [ INFO ]  元素定位成功
+2023-02-11 18:05:48  [ TestNG-tests-1:6701 ] - [ INFO ]  向【[[ChromeDriver: chrome on WINDOWS (118865c0975f9e0271fdf909fe0a2333)] -> name: acct]】中写入数据：【changlinhui】
+2023-02-11 18:05:48  [ TestNG-tests-1:6758 ] - [ INFO ]  根据{by:name,value:password}来定位【登陆页】页面的【密码】元素
+2023-02-11 18:05:48  [ TestNG-tests-1:6764 ] - [ INFO ]  元素定位成功
+2023-02-11 18:05:48  [ TestNG-tests-1:6764 ] - [ INFO ]  向【[[ChromeDriver: chrome on WINDOWS (118865c0975f9e0271fdf909fe0a2333)] -> name: password]】中写入数据：【2】
